@@ -5,6 +5,11 @@ Ce projet permet de simuler des investissements DCA sur l'or en utilisant :
 - **Simulations Monte Carlo** pour les projections futures
 - **Analyse de volatilité** par périodes historiques
 
+# Attention
+- Ce projet a été **entièrement généré par IA** (Claude Sonnet 4) : **des erreurs peuvent être présentes** dans le code.
+- Les données proviennent de cette source https://datahub.io/core/gold-prices#readme et sont exprimées en USD.
+- Ce projet permet de visualiser ce qu’un DCA sur l’or peut produire, mais **ne constitue en aucun cas un conseil en investissement**.
+
 ## Fonctionnalités
 
 ### 📊 Variables DCA de base :

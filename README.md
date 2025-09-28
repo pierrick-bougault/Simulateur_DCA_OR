@@ -20,7 +20,7 @@ Ce projet permet de simuler des investissements DCA sur l'or en utilisant :
 4. **Nombre d'onces possédées** : Accumulation d'or au cours du temps
 5. **Frais par once** : Coûts de stockage/gestion par once détenue
 
-### 🎲 Nouvelles fonctionnalités Monte Carlo :
+### 🎲 Fonctionnalités Monte Carlo :
 
 - **Simulations probabilistes** : Milliers de scénarios futurs possibles
 - **Analyse de volatilité** : Basée sur différentes périodes historiques
